@@ -1,0 +1,6 @@
+[{"id":1,"name":"Picture","currentPrice":891.0,"customer":null,"needed":false},
+{"id":2,"name":"Clothespin","currentPrice":50,"customer":null,"needed":false},
+{"id":3,"name":"Statuette","currentPrice":210,"customer":null,"needed":false},
+{"id":4,"name":"Gobelin","currentPrice":452,"customer":null,"needed":false},
+{"id":5,"name":"Watch","currentPrice":623,"customer":null,"needed":false},
+{"id":6,"name":"I am not needed for anybody :C","currentPrice":10000,"customer":null,"needed":false}]
