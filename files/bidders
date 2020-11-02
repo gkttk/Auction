@@ -1,0 +1,39 @@
+{
+  "bidders": [
+    {
+      "name": "Bidder1",
+      "required_lots": {
+        "Picture": 1300,
+        "Gobelin": 620
+      }
+    },
+    {
+      "name": "Bidder2",
+      "required_lots": {
+        "Clothespin": 210,
+        "Picture": 1310
+      }
+    },
+    {
+      "name": "Bidder3",
+      "required_lots": {
+        "Gobelin": 550,
+        "Statuette": 211
+      }
+    },
+    {
+      "name": "Bidder4",
+      "required_lots": {
+        "Picture": 1500,
+        "Watch": 620
+      }
+    },
+    {
+      "name": "Bidder5",
+      "required_lots": {
+        "Watch": 800,
+        "Clothespin": 150
+      }
+    }
+  ]
+}
